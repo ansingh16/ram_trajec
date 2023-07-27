@@ -1,0 +1,3 @@
+This repository contains the code for analysis for studying the effect of Ram pressure stripping in the galaxies moving inside a background density. We use an anytical model to mimic the process of ram pressure stripping and study the variation with variation of different parameters related to intrinsic properties and background environment. The code was used in the publication of [Singh et. al. 2019](https://arxiv.org/abs/1909.02744)
+
+For any queries contact *ankitsingh@kias.re.kr*
